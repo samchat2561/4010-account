@@ -6,7 +6,7 @@ import { RouterLink } from 'vue-router';
   <nav class="navbar navbar-expand-lg navbar-dark px-0 shadow sticky-top" style="background: #ff1493;">
     <div class="container">
       <router-link :to="{ name: 'home' }" class="navbar-brand text-white fs-6"><i
-          class="fa-solid fa-graduation-cap me-2"></i>สาขาวิชาช่างอิเล็กทรอนิกส์</router-link>
+          class="fa-solid fa-graduation-cap me-2"></i>สาขาวิชาการบัญชี</router-link>
       <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent"
         aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
